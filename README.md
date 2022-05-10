@@ -1,18 +1,16 @@
-### Hi there 👋
+### Hi, I'm Vannara Thong 👋
 
 https://github-readme-stats.vercel.app/api?username=vannara43&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
-<!--
-**vannara43/vannara43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Interrogas
+- 🌱 I’m currently learning Postgres and Python
+- 👯 I’m looking to collaborate on new projects
+- 🤔 I’m looking for help with learning C#
+- 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
+- 📫 How to reach me: https://www.linkedin.com/in/vannarathong/
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love learning and working on projects
