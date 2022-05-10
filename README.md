@@ -1,16 +1,28 @@
-### Welcome! I'm Vannara Thong 👋 [![wakatime](https://wakatime.com/badge/user/vannara43.svg)](https://wakatime.com/@vannara43)
+<div align="center">
+Welcome! I'm Vannara Thong <img align="center" height="20px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/>
+</div>
+<br/>
 
+<div align="center">
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=HeitorFranco&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=HeitorFranco&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&layout=compact&langs_count=8&theme=radical"/><img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vannara43&theme=radical"/>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Heitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Heitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Heitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Heitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Heitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center" style="display: inline_block; "><br>
+  <img align="center" alt="vannara43-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vannara43-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="vannara43-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="vannara43-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="vannara43-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="vannara43-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="vannara43-CSS" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="vannara43-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img align="center" alt="vannara43-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="vannara43-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="center" alt="vannara43-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="vannara43-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vannara43-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="vannara43-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 <hr/>
 
