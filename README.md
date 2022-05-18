@@ -8,7 +8,7 @@ Welcome! I'm Vannara Thong | <img align="center" height="18px" src="https://waka
 <table>
   <thead >
     <tr >
-      <th> Public and with Private Stats</th>
+      <th> Vannara's Stats</th>
       <th>Top Languages</th>
     </tr>
   </thead>
