@@ -1,32 +1,38 @@
 
 <div>
-Welcome! I'm Vannara Thong | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/>
+Welcome! I'm Vannara Thong | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/> <img align="center" src="https://komarev.com/ghpvc/?username=vannara43&label=Profile%20views&color=0e75b6&style=flat" alt="vannara43" />
 </div>
 <br/>
 
-<table>
-  <thead>
-    <tr>
+<table >
+  <thead >
+    <tr >
       <th> Public and with Private Stats</th>
       <th>Top Languages</th>
+      <th>Total & Streaks</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody >
     <tr>
   <td height="350px" width="auto">
       <div>
-      <img align="" height="175px" width="" src="https://github-readme-stats.vercel.app/api?username=vannara43&show_icons=true&theme=omni&include_all_commits=true&count_private=false"/>
+      <img align="" height="175" width="375px" src="https://github-readme-stats.vercel.app/api?username=vannara43&theme=radical&include_all_commits=true&show_icons=true&count_private=true"/>
       </div>
     <div>
-<img align="" height="175px" width="" src="https://github-readme-stats.vercel.app/api?username=vannara43&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+      <img align="" alt="My stats" height="175" width="375px" src="https://awesome-github-stats.azurewebsites.net/user-stats/vannara43?cardType=github&theme=radical"/>
+<!--       <img align="" height="175px" width="" src="https://github-readme-stats.vercel.app/api?username=vannara43&theme=radical&count_private=true&show_icons=true"/> -->
     </div>
     </td>
-  <td><img align="" height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&langs_count=10&theme=radical"/></td>
+  <td>
+    <img align="" height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&theme=radical&langs_count=10"/>
+      </td>
+      <td>
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vannara43&theme=radical"/>
+      </td>
     </tr>
     </tbody>
 </tfoot>
 </table>
-
 
   
 <div style="display: inline_block; "><br>
