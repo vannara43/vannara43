@@ -1,13 +1,34 @@
+
 <div>
 Welcome! I'm Vannara Thong | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/>
 </div>
 <br/>
 
-<div>
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=vannara43&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&layout=compact&langs_count=10&theme=radical"/>
-</div>
+<table style="border-style: dotted"}>
+  <thead>
+    <tr>
+      <th> Public and with Private Stats</th>
+      <th>Top Languages</th>
+    </tr>
+  </thead>
+  <tbody style="">
+    <tr>
+  <td height="350px" width="auto">
+      <div>
+      <img align="" height="175px" width="" src="https://github-readme-stats.vercel.app/api?username=vannara43&show_icons=true&theme=omni&include_all_commits=true&count_private=false"/>
+      </div>
+    <div>
+<img align="" height="175px" width="" src="https://github-readme-stats.vercel.app/api?username=vannara43&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    </div>
+    </td>
+  <td><img align="" height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&langs_count=10&theme=radical"/></td>
+    </tr>
+    </tbody>
+</tfoot>
+</table>
 
+
+  
 <div style="display: inline_block; "><br>
   <img align="center" alt="vannara43-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vannara43-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
