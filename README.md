@@ -4,14 +4,14 @@ Welcome! I'm Vannara Thong | <img align="center" height="18px" src="https://waka
 </div>
 <br/>
 
-<table style="border-style: dotted"}>
+<table>
   <thead>
     <tr>
       <th> Public and with Private Stats</th>
       <th>Top Languages</th>
     </tr>
   </thead>
-  <tbody style="">
+  <tbody>
     <tr>
   <td height="350px" width="auto">
       <div>
