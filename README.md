@@ -1,39 +1,40 @@
 
-<div>
+<div align="center">
 Welcome! I'm Vannara Thong | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/> <img align="center" src="https://komarev.com/ghpvc/?username=vannara43&label=Profile%20views&color=0e75b6&style=flat" alt="vannara43" />
 </div>
 <br/>
 
-<table >
+
+<table>
   <thead >
     <tr >
       <th> Public and with Private Stats</th>
       <th>Top Languages</th>
-      <th>Total & Streaks</th>
     </tr>
   </thead>
   <tbody >
     <tr>
   <td height="350px" width="auto">
-      <div>
-      <img align="" height="175" width="375px" src="https://github-readme-stats.vercel.app/api?username=vannara43&theme=radical&include_all_commits=true&show_icons=true&count_private=true"/>
+      <div align="center">
+      <img align="center" alt="My stats" height="" width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/vannara43?cardType=github&theme=radical"/>
+        <img height="200px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=vannara43&theme=radical"/>
       </div>
-    <div>
-      <img align="" alt="My stats" height="175" width="375px" src="https://awesome-github-stats.azurewebsites.net/user-stats/vannara43?cardType=github&theme=radical"/>
-<!--       <img align="" height="175px" width="" src="https://github-readme-stats.vercel.app/api?username=vannara43&theme=radical&count_private=true&show_icons=true"/> -->
-    </div>
     </td>
   <td>
-    <img align="" height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&theme=radical&langs_count=10"/>
-      </td>
-      <td>
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=vannara43&theme=radical"/>
-      </td>
+    <img align="" height="100%" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&theme=radical&langs_count=10"/>
+  </td>
     </tr>
     </tbody>
-</tfoot>
 </table>
+  </div>
 
+<img height="200px" width="100%" src="https://github-profile-trophy.vercel.app/?username=vannara43&theme=radical"/>
+
+<img width="100%" src="https://repobeats.axiom.co/api/embed/d401fff1cf2a044f84c3a8c9d201cbdbe4abee5f.svg">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=vannara43&theme=react-dark&hide_border=true">
+
+![Metrics](https://metrics.lecoq.io/vannara43?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&followup=1&lines=1&activity=1&achievements=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=America%2FNew_York) </p>  
   
 <div style="display: inline_block; "><br>
   <img align="center" alt="vannara43-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
